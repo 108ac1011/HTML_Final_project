@@ -141,7 +141,7 @@ transform:  rotate(45deg) translate(-1px, -3px);
     .main{
       width: 320px;
       height: 210px;
-      margin-top: 8%;
+      margin-top: 20%;
       margin-left: 12%;
       margin-right: 0%;
     }
@@ -241,6 +241,7 @@ transform:  rotate(45deg) translate(-1px, -3px);
     display: flex;
     flex-direction: column;
     margin-left: 8%;
+   
   }
 
   .topic
